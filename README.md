@@ -1,8 +1,4 @@
-# API-Testing-Console
-
 # API Console Testing
-
-![Project Demo](demo.gif) <!-- Replace with a demo GIF or screenshot of your project -->
 
 ## Introduction
 
